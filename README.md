@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Sakshi Shukla</h1>
 <h3 align="center">🚀 Python Developer | 📊 Data Science Enthusiast | 🤖 Machine Learning Explorer | DSA Learner |🎯 Problem Solver</h3>
 
-<img src="https://cdnb.artstation.com/p/assets/images/images/028/991/999/original/anna-havrylyukh-.gif?1596125112" align="right" width="400"/>
+<img src="https://cdnb.artstation.com/p/assets/images/images/028/991/999/original/anna-havrylyukh-.gif?1596125112" align="right" width="350"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sakshi9335&label=Profile%20views&color=0e75b6&style=flat" alt="sakshi9335" /> </p>
 
