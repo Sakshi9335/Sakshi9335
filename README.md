@@ -1,6 +1,9 @@
 ![logo](https://github.com/Sakshi9335/Sakshi9335/blob/main/Banner.png)
 <h1 align="center">Hi 👋, I'm Sakshi Shukla</h1>
 <h3 align="center">🚀 Python Developer | 📊 Data Science Enthusiast | 🤖 Machine Learning Explorer | DSA Learner |🎯 Problem Solver</h3>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=36BCF7&size=24&center=true&vCenter=true&width=700&lines=Data+Science+|+Machine+Learning+|+Python;Always+Learning+Something+New;DSA+Enthusiast+%26+Problem+Solver" alt="Typing SVG">
+</p>
 
 <img src="https://cdnb.artstation.com/p/assets/images/images/028/991/999/original/anna-havrylyukh-.gif?1596125112" align="right" width="350"/>
 
