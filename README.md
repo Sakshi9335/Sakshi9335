@@ -34,5 +34,9 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sakshi9335&show_icons=true&locale=en" alt="sakshi9335" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sakshi9335&" alt="sakshi9335" /></p>
+<p align="center">
+    <a href="https://leetcode.com/sakshi9335/" target="_blank">
+        <img src="https://leetcard.jacoblin.cool/sakshi9335?theme=dark&ext=activity" alt="LeetCode Stats" />
+    </a>
+</p>
 
