@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **Data Science |DSA| Machine Learning | Deep Learning**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Sakshi9335/](https://github.com/Sakshi9335/)
+- 👨‍💻 All of my projects are available at [https://preview--sakshishukla.lovable.app/](https://preview--sakshishukla.lovable.app/)
 
 - 💬 Ask me about **Python, Machine Learning Algo, Data Science , Problem Solving**
 
